@@ -6,8 +6,7 @@ This dashboard collects and tracks complex data and organizes it into simple, ea
 
 ## 🔎 Table of contents
 - Data Preparation and Data Cleaning.
-- Exploratory Analysis.
-- Visualization.
+- Exploratory Analysis and Visualization.
   - Key Insights and Recommedations.
 
 ## 📂 How to Use
