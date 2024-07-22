@@ -5,11 +5,10 @@ The main purpose of this project is to develop a comprehensive dashboard using t
 This dashboard collects and tracks complex data and organizes it into simple, easy-to-understand formats. And also facilitates trend identification, identifies areas for improvement, and allows decision-makers to monitor changes in operations efficiently.
 
 ## 🔎 Table of contents
-- Data Preparation.
-- Data Cleaning.
+- Data Preparation and Data Cleaning.
 - Exploratory Analysis.
 - Visualization.
-- Key Insights and Recommedations.
+  - Key Insights and Recommedations.
 
 ## 📂 How to Use
 1. **Explore the Database**:
