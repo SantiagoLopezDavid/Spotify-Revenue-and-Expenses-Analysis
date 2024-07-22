@@ -8,7 +8,7 @@ import seaborn as sns
 import matplotlib
 import matplotlib.pyplot as plt
 ```
-
+---
 ### 2. Loading Dataset:
 
 ```python
@@ -19,6 +19,7 @@ print(df.info())
 
 We have a total of 26 rows and 17 columns but the last row is **NULL** for all the columns except `Date` and `Premium ARPU`.
 
+---
 ### 3. Checking for NULL values:
 
 ```python
@@ -38,6 +39,7 @@ print(df.info())
 
 Now we have a total of 25 rows and 17 columns. All columns have 25 entries.
 
+---
 ### 4. Checking for Duplicates:
 
 ```python
@@ -45,7 +47,7 @@ print(f'There are {df.duplicated().sum()} duplicates.')
 ```
 <img width="284" alt="image" src="https://github.com/user-attachments/assets/5b24cc90-b260-4c55-b422-8d92784c276a">
 
-
+---
 Let's take a look at the first 10 rows of the database:
 
 ```python
@@ -55,6 +57,7 @@ print(df.head(10))
 
 <img width="1337" alt="image" src="https://github.com/user-attachments/assets/6f3248e1-a488-44d0-b479-982da2e9a265">
 
+---
 ### 5. Data Formatting:
 
 Check data types:
