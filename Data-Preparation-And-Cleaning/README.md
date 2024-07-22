@@ -74,3 +74,12 @@ print(df.dtypes)
 
 <img width="376" alt="image" src="https://github.com/user-attachments/assets/7cd45c3e-73bf-4dcb-981f-473d15255108">
 
+---
+### 6. Save the new file as a csv:
+
+```python
+df.to_csv("New_Spotify_Quarterly.csv")
+```
+Now we can move forward with the Exploratory Analysis and Visualizations.
+
+---
