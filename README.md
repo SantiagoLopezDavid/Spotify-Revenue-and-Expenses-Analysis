@@ -21,6 +21,3 @@ This dashboard collects and tracks complex data and organizes it into simple, ea
 - [Spotify Revenue, Expenses and Its Premium Users](https://www.kaggle.com/datasets/mauryansshivam/spotify-revenue-expenses-and-its-premium-users?resource=download)
 - Python Documentation: [Python Documentation](https://docs.python.org/3/).
 - Pandas Documentation: [Pandas Documentation](https://pandas.pydata.org/docs/).
-- Numpy Documentation: [Numpy Documentation](https://numpy.org/doc/).
-- Matplotlib Documentation: [Matplotlib Documentation](https://matplotlib.org/stable/index.html).
-- Seaborn Documentation: [Seaborn Documentation](https://seaborn.pydata.org/).
