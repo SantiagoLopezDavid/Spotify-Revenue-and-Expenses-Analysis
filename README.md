@@ -15,7 +15,7 @@ This dashboard collects and tracks complex data and organizes it into simple, ea
 2. **Run the Python code**:
   - Read the `Python` code provided in the first steps of the project.
 3. **Analyze and Visualize**:
-  - Use `Tableau` and `Python` to visualize the data and draw insights.
+  - Use `Tableau` to visualize the data and draw insights.
 
 ## 📚 References
 - [Spotify Revenue, Expenses and Its Premium Users](https://www.kaggle.com/datasets/mauryansshivam/spotify-revenue-expenses-and-its-premium-users?resource=download)
