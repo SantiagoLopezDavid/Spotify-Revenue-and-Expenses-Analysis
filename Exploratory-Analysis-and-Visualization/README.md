@@ -31,6 +31,16 @@ This graph shows the difference from every quarter to the previous for all 7 yea
 
 As shown in the graphic, we see that the best year in terms of growth was **2017**. Althought they had negative `Net Profit` they still manage to improve in each **Quarter** and finish their **Q4** with the best `Net Profit` of all 7 years. From here is very clear that **Spotify** has a hard time gaining momentum and maintaining improvement from quarter to quarter. There is not a single year from **2017** in which the company has a positive difference in more than two consecutives quarters. The worst year for the company, as we have seen in previous graphs, was **2022**. In **75%** of their year there was a negative difference from previous terms.
 
+---
+
+**Now lets take a look into **Spotify** two different users groups: Ad-Supported users and Premium Users.**
+
+---
+**5. Premium and Ad Revenue**
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/a4c95614-19bc-4518-9c61-15a484d82b6a">
+
+
 
 
 
