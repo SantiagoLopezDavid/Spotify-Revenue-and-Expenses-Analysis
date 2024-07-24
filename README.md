@@ -2,7 +2,7 @@
 
 The main purpose of this project is to develop a comprehensive dashboard using the Tableau BI Tool and Python libraries to consolidate data into visual formats. It aims to provide quick access to valuable insights from the Kaggle data base [Spotify Revenue, Expenses and Its Premium Users.](https://www.kaggle.com/datasets/mauryansshivam/spotify-revenue-expenses-and-its-premium-users?resource=download)
 
-This dashboard collects and tracks complex data and organizes it into simple, easy-to-understand formats. And also facilitates trend identification, identifies areas for improvement, and allows decision-makers to monitor changes in operations efficiently.
+This project collects and tracks complex data and organizes it into simple, easy-to-understand format. And also facilitates trend identification and identifies areas for improvement.
 
 ## 🔎 Table of contents
 - Data Preparation and Data Cleaning.
