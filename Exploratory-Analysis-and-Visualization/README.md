@@ -81,17 +81,20 @@ It seems like Ad-supported users will double than Premium Users in some point in
 - It would be interesting to explore the reasons behind the company `Net Profit` behaviour.
   - Is the `Net Profit` numbers normal for a company like **Spotify**?
   - What other data sources could be included in the analysis?
+- We can see that the company had a growth in Total Revenue and Total Costs. Is this related to COVID? Was the company growing at a pace that after two years in 2022 the costs that the company had were too big and the Revenue was lower than expected?
+- Its not a secret that COVID had a huge impact in companies all over the world and in every industry. It is possible that **Spotify** had a big growth period during the pandemic but after the everything went back to 'normal' users went back to ad-supported plans and stop paying for subscriptions. During this period **Spotify** might have needed to increase their costs due to the high demand from users but once this period was done and users migrate to other companies or decided to cancel subscriptions, **Spotify** was left with higher costs than and a decreasing Revenue.
+  - Was COVID a reason why Costs were higher than Revenue in 2020 for the company?
+  - What was the impact that COVID had on the company user base?
+- It seems that there are more customers who are comfortable with ads on their app and are not interested in switching to a Premium Plan. It would be interesting to explore the convertion rate from Ad-Supported Users to Premium Users and see if there is a change in the number of users that decide to buy the plan in the past 7-10 years. We can see that for **Spotify** 
 
-- Was COVID a reason why Costs were higher than Revenue in 2020 for the company?
-- 
-- How big was the impact on people's music consumption from COVID? 
+
 **Recomendations**
-- **Spotify** must find ways to lower their `Total Costs` in order to improve their bottom line `Net Profit`. 
+- **Spotify** must find ways to lower their `Total Costs` in order to improve their bottom line `Net Profit`. They need to be profitable again.
+- **Spotify** must find better alternatives to make users change to a Premium plan. This would increase their Revenue and probably their Net Profit.    - Would a lower price make people consider a Premium Plan?
+  - What is the difference from other music streaming services to **Spotify**?
+  - In which areas is **Spotify** better or worst than their competition?
+  - How are Premium plans compare to other competitors?
 
-
-
-- What happen in 2022 that made costs higher than revenue? spotify business model is based on online/internet based services, not brick and mortar, did covid had a big impact on peoples music consumption behaviour? Would it make more sense if people tended to listen to more music?
-- We can se that in between 2020-2022, revenue and costs where going up, maybe spotify was growing and had since people were consuming more music but their cost also went up to keep up with the demand. How is 2022 different and why costs are significantly bigger than revenue?
 - What is the convertion rate from ad-supported to premium users? is it worth the expenses to keep the ad-supported part of the business running?
 - It might make sense the numbers for ad-supported users since spotify business model is based on making people pay for the premium services. We know that this part of the business makes the most revenue and has better numbers. Would shutting down the ad-supported part of the business have a positve impact on the company costs bottom line? would it improve net-revenue?
 - More customers are comfortable with ads and dont change to premium. Why is this? are ads less than before? is people okay with ads? how many minutes per day would a person listen to ads ?
