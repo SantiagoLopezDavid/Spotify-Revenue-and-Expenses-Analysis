@@ -7,7 +7,7 @@ This project collects and tracks complex data and organizes it into simple, easy
 ## 🔎 Table of contents
 - Data Preparation and Data Cleaning.
 - Exploratory Analysis and Visualization.
-- Key Insights and Recommedations.
+- Key Insights, Further questions, and Recommedations.
 
 ## 📂 How to Use
 1. **Explore the Database**:
