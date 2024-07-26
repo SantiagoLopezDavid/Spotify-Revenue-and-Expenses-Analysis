@@ -72,4 +72,5 @@ In the other hand, a **1 Euro** difference in 7 years is not very significant fr
 
 Monthly Users have been growing for the past 7 years, with an increasing difference between Premium Users from Ad-Supported Users in the las 2.5 yeas.
 It seems like Ad-supported users will double than Premium Users in some point in the future. Even though **Spotify** has increased their user base, more users are staying in a Ad-Supported version of the App and not making the step over to the Premium plans. 
+
 ---
